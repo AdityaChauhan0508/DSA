@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="ArrList"/>
+	<classpathentry kind="src" path="Backtracking"/>
+	<classpathentry kind="src" path="BasicSortingalgo"/>
+	<classpathentry kind="src" path="Binary Search Tree [BST]"/>
+	<classpathentry kind="src" path="Binary Trees"/>
+	<classpathentry kind="src" path="Divide &amp; Conquer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
