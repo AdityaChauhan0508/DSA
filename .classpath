@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Binary Trees"/>
 	<classpathentry kind="src" path="Divide &amp; Conquer"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="GreedyAlgorithms"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
